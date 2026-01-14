@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Wandley | Data Analyst
 
-<!--
-**wandleyvitor/Wandleyvitor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Data Analyst focused on turning data into insights that drive decisions.
 
-Here are some ideas to get you started:
+## 🧠 Skills
+- Exploratory Data Analysis (EDA)
+- Python (Pandas, Matplotlib)
+- SQL for business analysis
+- Excel (Data analysis, dashboards, reports)
+- Power BI (Dashboards & KPIs)
+  
+## 📂 Featured Projects
+- **EDA_Ecommerce** – Exploratory analysis of e-commerce data
+- Practical studies with real-world datasets
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Career Goal
+To work as a Data Analyst, applying data-driven solutions to support decision-making.
+
+📫 Contact:
+- Email: wandleyvitor569@gmail.com

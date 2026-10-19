@@ -1,20 +1,19 @@
-# 👋 Hi, I'm Wandley | Data Analyst
+# Olá, sou Wandley Vitor
 
-📊 Data Analyst focused on turning data into insights that drive decisions.
+Estou construindo minha trajetória em **análise de dados** e busco minha primeira oportunidade na área.
 
-## 🧠 Skills
-- Exploratory Data Analysis (EDA)
-- Python (Pandas, Matplotlib)
-- SQL for business analysis
-- Excel (Data analysis, dashboards, reports)
-- Power BI (Dashboards & KPIs)
-  
-## 📂 Featured Projects
-- **EDA_Ecommerce** – Exploratory analysis of e-commerce data
-- Practical studies with real-world datasets
+- **Excel:** minha ferramenta de maior familiaridade.
+- **Python, SQL e Power BI:** conhecimentos básicos, em desenvolvimento.
+- **HTML e CSS:** utilizados na criação de sites.
 
-## 🚀 Career Goal
-To work as a Data Analyst, applying data-driven solutions to support decision-making.
+## Projetos
 
-📫 Contact:
-- Email: wandleyvitor569@gmail.com
+Estou organizando meu portfólio. Novos projetos serão apresentados aqui conforme forem concluídos e documentados.
+
+- [Análise de vendas com Python](https://github.com/wandleyvitor/analise-vendas-python) — estudo inicial com Pandas e Matplotlib, usando dados fictícios. Em revisão.
+- [Site Garage Apple](https://garageapple.pages.dev) — projeto complementar desenvolvido com HTML e CSS.
+
+## Contato
+
+- [Instagram · WV.LAB](https://www.instagram.com/wv.laboratorio_/) — projetos e estudos em tecnologia e dados.
+- [E-mail](mailto:wandleyvitor569@gmail.com)

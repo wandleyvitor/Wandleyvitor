@@ -12,6 +12,8 @@ Desenvolvo sites, sistemas e soluções de análise de dados para negócios.
 
 ## Projetos
 
+- [WV Gestão · acessar demonstração](https://wv-gestao.sappy-jam-4578.chatgpt.site) — dashboard de vendas e estoque com gráficos, filtros e dados fictícios, disponível para consulta. [Código no GitHub](https://github.com/wandleyvitor/wv-gestao).
+
 - [Site Garage Apple](https://garageapple.pages.dev) — site desenvolvido com HTML e CSS.
 - [Análise de vendas com Python](https://github.com/wandleyvitor/analise-vendas-python) — estudo com Pandas e Matplotlib e dados fictícios. Documentação em revisão.
 

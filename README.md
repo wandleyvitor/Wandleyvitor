@@ -6,6 +6,14 @@ Desenvolvo projetos para organizar informações e simplificar processos. Estou 
 
 ## Projetos em destaque
 
+### WV Orçamentos — do pedido ao próximo retorno
+
+Demonstração interativa para cadastrar atendimentos, montar propostas e acompanhar serviços em seis etapas.
+
+- **Veja funcionando:** [abrir WV Orçamentos](https://wv-orcamentos.pages.dev/).
+- **Código e instruções:** [repositório do projeto](https://github.com/wandleyvitor/wv-orcamentos).
+- **Contexto:** portfólio com assistência de IA e dados fictícios; registros locais por navegador, prévia para impressão e backup JSON.
+
 ### WV Gestão — vendas, estoque e indicadores
 
 Uma demonstração para explorar vendas, produtos, movimentações e indicadores em um só lugar.

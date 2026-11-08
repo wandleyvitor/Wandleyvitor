@@ -1,27 +1,49 @@
-# Wandley Vitor
+# Wandley Vitor · WV.LAB
 
-**Analista de Dados | Desenvolvedor Full Stack**
+**Sites, ferramentas para negócios e análise de dados**
 
-Desenvolvo sites, sistemas e soluções de análise de dados para negócios.
+Desenvolvo projetos para organizar informações e simplificar processos. Estou ampliando meu portfólio e aberto a conversar sobre trabalhos freelance de escopo definido.
 
-## Atuação
+## Projetos em destaque
 
-- **Desenvolvimento web:** sites, landing pages e aplicações web.
-- **Sistemas e automações:** ferramentas para organizar processos e reduzir tarefas manuais.
-- **Análise de dados:** organização de bases, relatórios e dashboards.
+### WV Gestão — vendas, estoque e indicadores
 
-## Projetos
+Uma demonstração para explorar vendas, produtos, movimentações e indicadores em um só lugar.
 
-- [WV Gestão · acessar demonstração](https://wv-gestao.sappy-jam-4578.chatgpt.site) — dashboard de vendas e estoque com gráficos, filtros e dados fictícios, disponível para consulta. [Código no GitHub](https://github.com/wandleyvitor/wv-gestao).
+- **Veja funcionando:** [abrir demonstração](https://wv-gestao.sappy-jam-4578.chatgpt.site).
+- **Parte técnica:** React, TypeScript, FastAPI e SQLite; [código e documentação](https://github.com/wandleyvitor/wv-gestao).
+- **Contexto:** projeto de portfólio desenvolvido com assistência de IA. A versão pública é de consulta, com dados fictícios. Não é um sistema em produção para clientes.
 
-- [Site Garage Apple](https://garageapple.pages.dev) — site desenvolvido com HTML e CSS.
-- [Análise de vendas com Python](https://github.com/wandleyvitor/analise-vendas-python) — estudo com Pandas e Matplotlib e dados fictícios. Documentação em revisão.
+### Garage Apple — site do meu negócio
 
-Novos projetos serão adicionados conforme forem concluídos e documentados.
+Site com caminhos para conhecer a loja, consultar iPhones, solicitar avaliação de reparo e acessar avaliações.
 
-## Contato e freelas
+- **Veja funcionando:** [abrir Garage Apple](https://garageapple.pages.dev).
+- **Contexto:** aplicação no meu próprio negócio; não representa um cliente externo.
 
-Disponível para conversar sobre projetos de tecnologia e dados. Entre em contato para alinharmos a necessidade, o escopo e o prazo.
+### Análise de vendas — estudo com Python
+
+Dez registros de exemplo transformados em um resumo de receita por categoria, usando Pandas e Matplotlib.
+
+- **Veja o estudo:** [resultados, visualização e instruções de execução](https://github.com/wandleyvitor/analise-vendas-python).
+- **Contexto:** estudo introdutório com base de exemplo; receita não é lucro.
+
+### Investimentos brasileiros — estudo de dados
+
+Estudo com Python sobre preços ajustados, oscilações, quedas e correlação de três ativos.
+
+- **Veja a metodologia:** [código, documentação e limites](https://github.com/wandleyvitor/analise-investimentos-brasil).
+- **Contexto:** projeto educacional em desenvolvimento; não é recomendação de investimento.
+
+## Como posso ajudar
+
+Podemos conversar sobre sites comerciais, relatórios e dashboards ou ferramentas internas pequenas. Primeiro avaliamos o problema, os materiais disponíveis e a viabilidade; depois definimos entregas, prazo e limites de suporte.
+
+Os projetos de estudo demonstram aprendizagem e foram desenvolvidos com assistência de IA. As funcionalidades e limitações de cada um estão descritas em sua documentação.
+
+## Contato
 
 - [Instagram · WV.LAB](https://www.instagram.com/wv.laboratorio_/)
-- [E-mail](mailto:wandleyvitor569@gmail.com)
+- [E-mail para projetos](mailto:wandleyvitor569@gmail.com)
+
+Conte qual tarefa você precisa melhorar e qual resultado espera alcançar.

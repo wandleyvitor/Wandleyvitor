@@ -12,7 +12,7 @@ Demonstração interativa para cadastrar atendimentos, montar propostas e acompa
 
 - **Veja funcionando:** [abrir WV Orçamentos](https://wv-orcamentos.pages.dev/).
 - **Código e instruções:** [repositório do projeto](https://github.com/wandleyvitor/wv-orcamentos).
-- **Contexto:** portfólio com assistência de IA e dados fictícios; registros locais por navegador, prévia para impressão e backup JSON.
+- **Destaques:** registros locais por navegador, prévia para impressão e backup JSON. Dados fictícios.
 
 ### WV Gestão — vendas, estoque e indicadores
 
@@ -20,7 +20,7 @@ Uma demonstração para explorar vendas, produtos, movimentações e indicadores
 
 - **Veja funcionando:** [abrir demonstração](https://wv-gestao.sappy-jam-4578.chatgpt.site).
 - **Parte técnica:** React, TypeScript, FastAPI e SQLite; [código e documentação](https://github.com/wandleyvitor/wv-gestao).
-- **Contexto:** projeto de portfólio desenvolvido com assistência de IA. A versão pública é de consulta, com dados fictícios. Não é um sistema em produção para clientes.
+- **Contexto:** versão pública de consulta, com dados fictícios.
 
 ### Garage Apple — site do meu negócio
 
@@ -29,13 +29,6 @@ Site com caminhos para conhecer a loja, consultar iPhones, solicitar avaliação
 - **Veja funcionando:** [abrir Garage Apple](https://garageapple.pages.dev).
 - **Contexto:** aplicação no meu próprio negócio; não representa um cliente externo.
 
-### Análise de vendas — estudo com Python
-
-Dez registros de exemplo transformados em um resumo de receita por categoria, usando Pandas e Matplotlib.
-
-- **Veja o estudo:** [resultados, visualização e instruções de execução](https://github.com/wandleyvitor/analise-vendas-python).
-- **Contexto:** estudo introdutório com base de exemplo; receita não é lucro.
-
 ### Investimentos brasileiros — estudo de dados
 
 Estudo com Python sobre preços ajustados, oscilações, quedas e correlação de três ativos.
@@ -43,11 +36,15 @@ Estudo com Python sobre preços ajustados, oscilações, quedas e correlação d
 - **Veja a metodologia:** [código, documentação e limites](https://github.com/wandleyvitor/analise-investimentos-brasil).
 - **Contexto:** projeto educacional em desenvolvimento; não é recomendação de investimento.
 
+### Outros estudos
+
+- [Análise de vendas com Python](https://github.com/wandleyvitor/analise-vendas-python) — receita por categoria com Pandas e Matplotlib.
+
 ## Como posso ajudar
 
 Podemos conversar sobre sites comerciais, relatórios e dashboards ou ferramentas internas pequenas. Primeiro avaliamos o problema, os materiais disponíveis e a viabilidade; depois definimos entregas, prazo e limites de suporte.
 
-Os projetos de estudo demonstram aprendizagem e foram desenvolvidos com assistência de IA. As funcionalidades e limitações de cada um estão descritas em sua documentação.
+Os projetos de portfólio foram desenvolvidos com assistência de IA. Funcionalidades e limitações de cada um estão descritas na documentação.
 
 ## Contato
 

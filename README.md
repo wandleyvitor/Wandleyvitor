@@ -6,6 +6,14 @@ Desenvolvo projetos para organizar informações e simplificar processos. Estou 
 
 ## Projetos em destaque
 
+### Painel Garage Apple — vendas reais de uma loja de iPhones
+
+Faturamento, ticket médio, modelos mais vendidos e comparação entre seminovo e lacrado, com os dados reais da minha loja desde a primeira venda.
+
+- **Veja funcionando:** [abrir o painel](https://wandleyvitor.github.io/painel-garage-apple/).
+- **Código e dados:** [repositório do projeto](https://github.com/wandleyvitor/painel-garage-apple).
+- **Contexto:** dados reais, sem identificação de clientes; os atendimentos novos são registrados para as próximas versões.
+
 ### WV Orçamentos — do pedido ao próximo retorno
 
 Demonstração interativa para cadastrar atendimentos, montar propostas e acompanhar serviços em seis etapas.

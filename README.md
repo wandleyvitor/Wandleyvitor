@@ -14,6 +14,14 @@ Faturamento, ticket médio, modelos mais vendidos e comparação entre seminovo 
 - **Código e dados:** [repositório do projeto](https://github.com/wandleyvitor/painel-garage-apple).
 - **Contexto:** dados reais, sem identificação de clientes; os atendimentos novos são registrados para as próximas versões.
 
+### Controle de Gastos — contas, limites e parcelas
+
+Controle financeiro pessoal com gráficos de resumo e personalização de cor, modo escuro e nome. Nasceu do meu próprio controle e ganhou uma versão para outra pessoa usar.
+
+- **Veja funcionando:** [abrir Controle de Gastos](https://controle-de-gastos-financeiro.pages.dev/).
+- **Código e documentação:** [repositório do projeto](https://github.com/wandleyvitor/controle-de-gastos).
+- **Contexto:** os dados ficam só no navegador de cada pessoa; a demonstração abre com dados fictícios.
+
 ### WV Orçamentos — do pedido ao próximo retorno
 
 Demonstração interativa para cadastrar atendimentos, montar propostas e acompanhar serviços em seis etapas.
